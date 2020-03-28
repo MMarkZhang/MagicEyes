@@ -27,7 +27,7 @@ import java.sql.Time;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String UPLOAD_HTTP_URL = "http://34.69.60.154:8080/magicEyes/annotate";
+    private static final String UPLOAD_HTTP_URL = "http://XX.XX.XX.XXX:8080/magicEyes/annotate";
 
     private static final int IMAGE_CAPTURE_CODE = 1;
     private static final int SELECT_IMAGE_CODE = 2;
